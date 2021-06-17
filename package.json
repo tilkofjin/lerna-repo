@@ -1,0 +1,19 @@
+{
+  "name": "root",
+  "private": true,
+  "scripts": {
+    "taro:dev-h5": "yarn workspace taro3 dev:h5",
+    "ant:dev": "yarn workspace antd-pro start:dev",
+    "vue:dev": "yarn workspace vue3 dev"
+  },
+  "workspaces": {
+    "packages": [
+      "packages/taro3",
+      "packages/antd-pro",
+      "packages/vue3"
+    ]
+  },
+  "devDependencies": {
+    "lerna": "^4.0.0"
+  }
+}
