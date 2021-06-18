@@ -1,4 +1,4 @@
-## Lerna & Yarn Workspace
+## [Lerna]((https://github.com/lerna/lerna)) & [Yarn Workspace](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
 
 ```bash
 # 安装依赖
@@ -21,4 +21,6 @@ lerna add pubcomp --scope=taro3
 lerna exec --scope=taro3  yarn remove pubcomp
 ```
 
-> 其他相关使用查看 [官方文档](https://github.com/lerna/lerna)
+实用教程：
+  - [lerna 和 yarn 实现 monorepo](https://juejin.cn/post/6855129007185362952#heading-14)
+  - [lerna多包管理实践](https://juejin.cn/post/6844904194999058440)
