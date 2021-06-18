@@ -7,7 +7,6 @@ yarn
 # 启动子应用示例
 yarn vue:dev
 
-
 # 所有子应用统一安装包，例如安装 redux
 lerna add redux
 
