@@ -1,4 +1,4 @@
-## [Lerna]((https://github.com/lerna/lerna)) & [Yarn Workspace](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
+## [Lerna](https://github.com/lerna/lerna) & [Yarn Workspace](https://classic.yarnpkg.com/blog/2017/08/02/introducing-workspaces/)
 
 ```bash
 # 安装依赖
