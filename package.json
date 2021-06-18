@@ -10,7 +10,8 @@
     "packages": [
       "packages/taro3",
       "packages/antd-pro",
-      "packages/vue3"
+      "packages/vue3",
+      "packages/pubComp"
     ]
   },
   "devDependencies": {

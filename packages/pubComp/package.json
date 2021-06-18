@@ -1,0 +1,26 @@
+{
+  "name": "pubcomp",
+  "version": "0.0.0",
+  "description": "pub component",
+  "author": "tilkofjin <tilkofjin@163.com>",
+  "homepage": "https://github.com/tilkofjin/lerna-repo#readme",
+  "license": "ISC",
+  "main": "lib/pubComp.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tilkofjin/lerna-repo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/tilkofjin/lerna-repo/issues"
+  }
+}
