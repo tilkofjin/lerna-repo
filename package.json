@@ -3,14 +3,19 @@
   "private": true,
   "scripts": {
     "taro:dev-h5": "yarn workspace taro3 dev:h5",
+    "taro:build-h5": "yarn workspace taro3 build:h5",
     "ant:dev": "yarn workspace antd-pro start:dev",
-    "vue:dev": "yarn workspace vue3 dev"
+    "ant:build": "yarn workspace antd-pro build",
+    "vue:dev": "yarn workspace vue3 dev",
+    "vue-cli:serve": "yarn workspace vue-cli serve",
+    "vue-cli:build": "yarn workspace vue-cli build"
   },
   "workspaces": {
     "packages": [
       "packages/taro3",
       "packages/antd-pro",
       "packages/vue3",
+      "packages/vue-cli",
       "packages/pubComp"
     ]
   },
