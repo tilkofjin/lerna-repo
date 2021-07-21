@@ -7,6 +7,7 @@
     "ant:dev": "yarn workspace antd-pro start:dev",
     "ant:build": "yarn workspace antd-pro build",
     "vue3:dev": "yarn workspace vue3 dev",
+    "vue3:build": "yarn workspace vue3 build",
     "vue-cli:serve": "yarn workspace vue-cli serve",
     "vue-cli:build": "yarn workspace vue-cli build"
   },
